@@ -203,7 +203,7 @@ This suggests that traders primarily adjust **how frequently they trade** rather
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/trader-performance-vs-market-sentiment.git
+git clone https://github.com/Shivraj4940/trader-performance-vs-market-sentiment.git
 ```
 
 Move into the project directory:
